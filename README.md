@@ -1,5 +1,5 @@
 # Barebones React project
 
-Just to clone and use for prototyping
+A clean React template for prototyping and simple use-cases. Includes Sass as a dependency.
 
-Clone and yarn install for dependencies
+Clone and install dependencies to start using it!
